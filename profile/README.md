@@ -1,12 +1,13 @@
-## Hi there 👋
+<p align="center">
+    <img src="./spikefi_logo.png" width="400">
+</p>
 
-<!--
+# Hi there 👋
 
-**Here are some ideas to get you started:**
+*Welcome to the GitHub organization of the SpikeFI project. Here you can find all the related information and the code of our open source framework.*
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# SpikeFI links:
+## > [SpikeFI Repository](https://github.com/SpikeFI/SpikeFI)
+## > [SpikeFI ArXiv](https://github.com/SpikeFI/SpikeFI)
+
+For intallation and usage instructions, please navigate to the SpikeFI [repo](https://github.com/SpikeFI/SpikeFI).
