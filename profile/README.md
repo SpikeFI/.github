@@ -1,6 +1,7 @@
-# Hi there 👋
+# SpikeFI
 
-*Welcome to the GitHub organization of the SpikeFI project. Here you can find all the related information and the code of our open source framework.*
+### Hi there 👋
+### *Welcome to the GitHub organization of the SpikeFI project! Here you can find all the related information and the code of our open source framework.*
 
 # SpikeFI links:
 ## > [SpikeFI Repository](https://github.com/SpikeFI/SpikeFI)
