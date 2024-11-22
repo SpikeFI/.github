@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="./spikefi_logo.png" width="400">
-</p>
-
 # Hi there 👋
 
 *Welcome to the GitHub organization of the SpikeFI project. Here you can find all the related information and the code of our open source framework.*
